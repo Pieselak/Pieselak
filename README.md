@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on about me website<br>🌱 I’m currently learning Javascript, PHP and C++<br>⚡ Fun fact I am 15 years old
+🌱 I’m currently learning Python, Javascript, PHP and C++
 
 
 ## 🌐 Socials:
