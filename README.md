@@ -1,17 +1,39 @@
-# 💫 About Me:
-🌱 I’m currently learning Python, Javascript, PHP and C++
+# Hi there, I'm Patryk! 👋
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pieselak&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pieselak&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pieselak&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Welcome to my GitHub profile. I am a student and a software developer passionate about building scalable, efficient, and modern web applications. I enjoy working across the full stack to bring ideas to life.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pieselak&icon=0&color=1)](https://visitcount.itsvg.in)
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🛠 Tech Stack
+
+### Frontend & Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & APIs
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 📈 What I'm Up To
+
+* 🎓 **Student** focusing on expanding my computer science knowledge and software development skills.
+* 💻 Currently building full-stack web applications.
+* 🌱 Always learning and exploring new frameworks and tools.
+* 🤝 Open to collaborations, open-source projects, and interesting initiatives.
+
+---
+
+## 📫 Get in Touch
+
+I'm always open to discussing new opportunities, creative ideas, or just having a chat about tech!
+
+* **Email:** [znamirowskipatryk@gmail.com](mailto:znamirowskipatryk@gmail.com)
+
+> **Note:** Feel free to reach out to me directly via email. I try to respond as quickly as possible!
